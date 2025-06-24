@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Prince Mbakwe](https://www.prince-coder10.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Prince Mbakwe](https://prince-coder10.github.io)
+- Frontend Mentor - [@prince-coder10](https://www.frontendmentor.io/profile/prince-coder10)
